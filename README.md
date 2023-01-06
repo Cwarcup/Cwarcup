@@ -29,7 +29,7 @@ I'm <b>Curtis Warcup</b>, a Full Stack Web Developer from Vancouver, Canada 🇨
 
 - ⚡️ In my free time I enjoy making custom mechanical keyboards, walking my dog and cycling.
 - 🐶 Ask me about keyboard mods, cycling, or anything else!
-- 👨🏼‍💻 Currently working on Advent of Code ❄️
+- 👨🏼‍💻 Currently working on a wedding website for my fiance and I.
 - ✉️ Contact me by [email]('curtis.gwarcup@gmail.com')
 
 ## Languages and Tools:
