@@ -3,7 +3,7 @@
 		<img src="./profile.png" width="200">
 	</a>
 
-<div id="badges">
+<div id="badges"></div>
 	<a href="https://www.linkedin.com/in/curtiswarcup/">
 		<img src="https://img.shields.io/badge/LinkedIn-64B3F3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 	</a>
@@ -29,10 +29,10 @@ I'm <b>Curtis Warcup</b>, a Full Stack Web Developer from Vancouver, Canada 🇨
 
 - ⚡️ In my free time I enjoy making custom mechanical keyboards, walking my dog and cycling.
 - 🐶 Ask me about keyboard mods, cycling, or anything else!
-- 👨🏼‍💻 Currently working on a wedding website for my fiance and I.
+- 👨🏼‍💻 Currently working on a Netflix clone with Next.js.
 - ✉️ Contact me by [email]('curtis.gwarcup@gmail.com')
 
-## Languages and Tools:
+## Languages and Tools
 
 <p>
   <img title="typescript" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescipt" />
