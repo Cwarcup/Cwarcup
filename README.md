@@ -15,11 +15,11 @@
 	</a>
   <img src="https://img.shields.io/github/stars/Cwarcup?color=%23C2E59B&logo=Github&style=for-the-badge" alt="GitHub stars"/>
 
-</div>
-
 <a>
 	<img src="https://komarev.com/ghpvc/?username=cwarcup&style=for-the-badge&color=89C5D2" alt="profile views"/>
 </a>
+</div>
+
 
 <br>
 </br>
