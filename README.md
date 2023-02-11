@@ -96,8 +96,7 @@ I'm <b>Curtis Warcup</b>, a Full Stack Web Developer from Vancouver, Canada 🇨
 
 ```text
 💬 Programming Languages: 
-JavaScript               9 mins              ███████████████████████░░   92.31 % 
-Markdown                 0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+No Activity Tracked This Week
 
 ```
 
