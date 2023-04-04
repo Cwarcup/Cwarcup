@@ -84,22 +84,3 @@ I'm <b>Curtis Warcup</b>, a Full Stack Web Developer from Vancouver, Canada 🇨
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cwarcup&theme=tokyonight" alt="Oops, something went wrong with most used languages graph. Sorry!" />
 </details>
-
-<details>
-<summary>
-⏰ Code Time Stats
-</summary>
-<br>
-
-<!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
-
-<!--END_SECTION:waka-->
-
-</detail>
