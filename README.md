@@ -1,21 +1,21 @@
 <div id="header" align="center">
-	<a href="https://www.cwarcup.com/">
+	<a style="text-decoration: none;" href="https://www.cwarcup.com/">
 		<img src="./profile.png" width="200">
 	</a>
 
 <div id="badges"></div>
-	<a href="https://www.linkedin.com/in/curtiswarcup/">
+	<a style="text-decoration: none;" href="https://www.linkedin.com/in/curtiswarcup/">
 		<img src="https://img.shields.io/badge/LinkedIn-64B3F3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 	</a>
-	<a href="https://www.cwarcup.com/">
+	<a style="text-decoration: none;" href="https://www.cwarcup.com/">
 		<img src="https://img.shields.io/badge/portfolio-89C5D2?style=for-the-badge&logoColor=white" alt="Curtis warcup Portfolio"/>
 	</a>
-  <a href="mailto:curtis.gwarcup@gmail.com">
+  <a style="text-decoration: none;" href="mailto:curtis.gwarcup@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-A9D8B3?style=for-the-badge&logo=gmail" alt="Gmail Badge"/>
 	</a>
   <img src="https://img.shields.io/github/stars/Cwarcup?color=%23C2E59B&logo=Github&style=for-the-badge" alt="GitHub stars"/>
 
-<a>
+<a style="text-decoration: none;">
 	<img src="https://komarev.com/ghpvc/?username=cwarcup&style=for-the-badge&color=89C5D2" alt="profile views"/>
 </a>
 </div>
@@ -37,7 +37,7 @@ I'm <b>Curtis Warcup</b>, web developer from Vancouver, Canada 🇨🇦
 <p>
   <img title="PHP" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" />
   <img title="typescript" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescipt" />
-  <img title="TailwindCSS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwind css" />
+  <img title="TailwindCSS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind css" />
   <img title="Nextjs" width="25px" src="https://imgur.com/hPofQoP.png" alt="next.js" />
   <img title="React" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" />
   <img title="redux" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" />
